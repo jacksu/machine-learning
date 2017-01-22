@@ -1,4 +1,7 @@
 # awesome-machine-learning
+
+##介绍
+[实例详解机器学习如何解决问题](http://tech.meituan.com/mt-mlinaction-how-to-ml.html)
 ##商业理解
 遇到了什么问题，需要什么数据来解决这个问题
 ##数据理解
