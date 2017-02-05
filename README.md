@@ -18,3 +18,6 @@
 
 [如何评估模型好坏](http://www.jianshu.com/p/41f434818ffc)
 ##A/B Test
+##推荐系统
+
+[推荐系统中基于深度学习的混合协同过滤模型](http://geek.csdn.net/news/detail/135405)
