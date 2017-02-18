@@ -25,3 +25,6 @@
 [饿了么推荐系统：从0到1](http://geek.csdn.net/news/detail/134876)
 ##广告引擎
 [小米品牌广告引擎与算法实践](http://geek.csdn.net/news/detail/138521)
+
+##机器学习系统
+[tensorflow学习用例](https://github.com/burness/tensorflow-101)
