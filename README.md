@@ -28,3 +28,5 @@
 
 ##机器学习系统
 [tensorflow学习用例](https://github.com/burness/tensorflow-101)
+##DL实战
+[DL好玩的东西](https://zhuanlan.zhihu.com/burness-DL)
