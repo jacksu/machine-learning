@@ -28,5 +28,7 @@
 
 ##机器学习系统
 [tensorflow学习用例](https://github.com/burness/tensorflow-101)
+
+[第四范式先知平台的整体架构和实现细节](http://www.infoq.com/cn/articles/the-fourth-paradigm-prophet-platform?from=groupmessage)
 ##DL实战
 [DL好玩的东西](https://zhuanlan.zhihu.com/burness-DL)
