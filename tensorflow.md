@@ -3,3 +3,5 @@
 [TensorFlow Tutorial and Examples for beginners](https://github.com/aymericdamien/TensorFlow-Examples)
 
 [TensorBox](https://github.com/TensorBox/TensorBox)-----Object detection in TensorFlow
+
+[Tensorflow入门：数据结构和编程思想](http://blog.csdn.net/lingerlanlan/article/details/61616906)
