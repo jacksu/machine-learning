@@ -5,3 +5,5 @@
 [TensorBox](https://github.com/TensorBox/TensorBox)-----Object detection in TensorFlow
 
 [Tensorflow入门：数据结构和编程思想](http://blog.csdn.net/lingerlanlan/article/details/61616906)
+
+[TensorFlow学习笔记1：入门](http://www.jeyzhang.com/tensorflow-learning-notes.html)
