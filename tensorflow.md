@@ -7,3 +7,5 @@
 [Tensorflow入门：数据结构和编程思想](http://blog.csdn.net/lingerlanlan/article/details/61616906)
 
 [TensorFlow学习笔记1：入门](http://www.jeyzhang.com/tensorflow-learning-notes.html)
+
+[tensorflow-talk-debugging](https://github.com/wookayin/tensorflow-talk-debugging)------ Slides and supplementary codes for my talk 'Debugging Tips on TensorFlow' (2016)
