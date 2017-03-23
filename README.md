@@ -15,6 +15,7 @@
 
 [各种机器学习算法分类总结](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-cheat-sheet)
 
+[如何为你的机器学习问题选择合适的算法](https://zhuanlan.zhihu.com/p/25459407)
 ## 模型评估
 
 [ROC和AUC介绍以及如何计算AUC](http://alexkong.net/2013/06/introduction-to-auc-and-roc/)
