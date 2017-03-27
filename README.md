@@ -38,3 +38,9 @@
 [第四范式先知平台的整体架构和实现细节](http://www.infoq.com/cn/articles/the-fourth-paradigm-prophet-platform?from=groupmessage)
 ## DL实战
 [DL好玩的东西](https://zhuanlan.zhihu.com/burness-DL)
+
+## AutoML
+
+[Data Robot](https://www.datarobot.com/)
+
+[Auto-sklearn](https://github.com/automl/auto-sklearn)--auto-sklearn is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator.
