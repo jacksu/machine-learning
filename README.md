@@ -41,6 +41,7 @@
 
 ## AutoML
 
+### Algorithm
 [Data Robot](https://www.datarobot.com/)
 
 [Auto-sklearn](https://github.com/automl/auto-sklearn)--auto-sklearn is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator.
@@ -48,3 +49,11 @@
 [BigML](https://bigml.com/)
 
 [automaticstatistician](https://www.automaticstatistician.com/examples/)
+
+### DataSet
+
+[OpenML](https://github.com/openml/OpenML)--OpenML aims to create a novel ecosystem for machine learning experimentation. The current generation of machine learning and data mining platforms offers a wide variety of algorithms to process and model all kinds of data.
+
+chalearn automl challenge
+
+kaggle
