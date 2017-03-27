@@ -44,3 +44,7 @@
 [Data Robot](https://www.datarobot.com/)
 
 [Auto-sklearn](https://github.com/automl/auto-sklearn)--auto-sklearn is an automated machine learning toolkit and a drop-in replacement for a scikit-learn estimator.
+
+[BigML](https://bigml.com/)
+
+[automaticstatistician](https://www.automaticstatistician.com/examples/)
