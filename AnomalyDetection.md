@@ -7,6 +7,7 @@
 
 [Anomaly Detection with R](https://github.com/twitter/AnomalyDetection)
 
+[Forecasting: principles and practice](https://www.otexts.org/fpp/7)
 ## DataSet
 
 [NAB](https://github.com/numenta/NAB)--The Numenta Anomaly Benchmark
