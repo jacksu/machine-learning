@@ -11,3 +11,5 @@
 [TensorFlow学习笔记1：入门](http://www.jeyzhang.com/tensorflow-learning-notes.html)
 
 [tensorflow-talk-debugging](https://github.com/wookayin/tensorflow-talk-debugging)------ Slides and supplementary codes for my talk 'Debugging Tips on TensorFlow' (2016)
+
+[learning to learn](https://github.com/deepmind/learning-to-learn)------Learning to Learn in TensorFlow
