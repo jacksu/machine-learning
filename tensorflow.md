@@ -13,3 +13,15 @@
 [tensorflow-talk-debugging](https://github.com/wookayin/tensorflow-talk-debugging)------ Slides and supplementary codes for my talk 'Debugging Tips on TensorFlow' (2016)
 
 [learning to learn](https://github.com/deepmind/learning-to-learn)------Learning to Learn in TensorFlow
+
+
+node1 = tf.constant(3.0, tf.float32)
+node2 = tf.constant(4.0)
+node3=tf.add(node1,node2)
+#print(sess.run(node3))
+tf.summary.scalar("test",node3)
+summary_op = tf.summary.merge_all() 
+sess.run(node3)
+summary_log_dir=vi.get_summary_log_dir()
+file_writer = tf.summary.FileWriter(summary_log_dir, sess.graph)
+port = vi.open_tensorboard(summary_log_dir)
