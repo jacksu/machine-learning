@@ -14,7 +14,9 @@
 
 [learning to learn](https://github.com/deepmind/learning-to-learn)------Learning to Learn in TensorFlow
 
+[Example code to help get started using TensorFlow](https://github.com/Hack-a-Day/bincounter_TensorFlow_example/)
 
+```python
 node1 = tf.constant(3.0, tf.float32)
 node2 = tf.constant(4.0)
 node3=tf.add(node1,node2)
@@ -25,3 +27,4 @@ sess.run(node3)
 summary_log_dir=vi.get_summary_log_dir()
 file_writer = tf.summary.FileWriter(summary_log_dir, sess.graph)
 port = vi.open_tensorboard(summary_log_dir)
+```
