@@ -16,6 +16,8 @@
 
 [Example code to help get started using TensorFlow](https://github.com/Hack-a-Day/bincounter_TensorFlow_example/)
 
+[详解TensorBoard如何调参](http://geek.csdn.net/news/detail/197155)
+
 ```python
 node1 = tf.constant(3.0, tf.float32)
 node2 = tf.constant(4.0)
