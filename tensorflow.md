@@ -18,6 +18,11 @@
 
 [详解TensorBoard如何调参](http://geek.csdn.net/news/detail/197155)
 
+
+[Implementations of CNNs, RNNs, GANs, etc](https://github.com/adeshpande3/Tensorflow-Programs-and-Tutorials)
+
+
+
 ```python
 node1 = tf.constant(3.0, tf.float32)
 node2 = tf.constant(4.0)
