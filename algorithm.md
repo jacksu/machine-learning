@@ -4,7 +4,8 @@
 ## KNN（K Nearest Neighbor）K近邻 --分类
 [K NEAREST NEIGHBOR 算法](http://coolshell.cn/articles/8052.html)
 
-##q learning
+## q learning
 
 [A Painless Q-learning Tutorial (一个 Q-learning 算法的简明教程)](http://blog.csdn.net/itplus/article/details/9361915)
+
 [如何用简单例子讲解 Q - learning 的具体过程？](https://www.zhihu.com/question/26408259/answer/123230350)
