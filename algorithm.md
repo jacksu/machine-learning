@@ -5,7 +5,8 @@
 [K NEAREST NEIGHBOR 算法](http://coolshell.cn/articles/8052.html)
 
 ## 强化学习
-###　Q-learning
+
+### Q-learning
 
 [A Painless Q-learning Tutorial (一个 Q-learning 算法的简明教程)](http://blog.csdn.net/itplus/article/details/9361915)
 
