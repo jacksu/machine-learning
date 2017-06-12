@@ -1,5 +1,7 @@
 # awesome-machine-learning
 
+[机器学习、Python和数学学习资料汇总](http://www.infoq.com/cn/news/2017/06/Machine-Python-math-aggregation)
+
 ## 介绍
 [实例详解机器学习如何解决问题](http://tech.meituan.com/mt-mlinaction-how-to-ml.html)
 
