@@ -10,11 +10,11 @@
 [Engineering statistics handbook](http://www.itl.nist.gov/div898/handbook/index.htm)
 ## 商业理解
 遇到了什么问题，需要什么数据来解决这个问题
-## 数据理解
-采样数据、探索数据，了解数据的特征（NA、分布、均值）
-## 数据预处理
-非法值的过滤
 ## 特征工程
+有这么一句话在业界广泛流传：数据和特征决定了机器学习的上限，而模型和算法只是逼近这个上限而已。包括采样数据、探索数据，了解数据的特征（NA、分布、均值），数据清洗、数据预处理，特征选择，降维等。
+
+[使用sklearn做单机特征工程](https://www.zhihu.com/question/29316149)
+
 ## 模型建立
 
 [各种机器学习算法分类总结](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-cheat-sheet)
