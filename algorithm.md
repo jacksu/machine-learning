@@ -6,6 +6,8 @@
 
 ## 强化学习
 
+[一文了解强化学习](http://geek.csdn.net/news/detail/201928)
+
 ### Q-learning
 
 [A Painless Q-learning Tutorial (一个 Q-learning 算法的简明教程)](http://blog.csdn.net/itplus/article/details/9361915)
