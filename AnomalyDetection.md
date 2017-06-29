@@ -11,3 +11,6 @@
 ## DataSet
 
 [NAB](https://github.com/numenta/NAB)--The Numenta Anomaly Benchmark
+
+## practice
+[dynatrace智能运维实践](http://www.infoq.com/cn/presentations/time-series-in-intelligent-operation-and-maintenanc?utm_source=infoq&utm_medium=videos_homepage&utm_campaign=videos_row1)
