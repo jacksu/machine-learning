@@ -65,3 +65,5 @@
 chalearn automl challenge
 
 kaggle
+
+[python module](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
