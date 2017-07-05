@@ -11,6 +11,7 @@
 > * [kaggle相关资料](kaggle.md)
 
 **代码**
+
 实践代码主要基于`python 3.6.1`，依赖的module有：
 
 > * numpy
