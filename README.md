@@ -14,9 +14,11 @@
 
 实践代码主要基于`python 3.6.1`，依赖的module有：
 
-> * numpy
-> * scipy
+> * numpy+mkl(使用whl安装)
+> * scipy（使用whl安装）
 > * pandas
 > * matplotlib & seaborn
 > * ipython
 > * jupyter
+
+[python module lib whl](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
