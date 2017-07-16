@@ -37,6 +37,8 @@
 [旅游推荐系统的演进](http://geek.csdn.net/news/detail/194840)
 
 [深度学习在推荐领域的应用](http://geek.csdn.net/news/detail/200138)
+
+[Youtube 短视频推荐系统变迁：从机器学习到深度学习](https://juejin.im/post/5969b32cf265da6c415f3fae)
 ## 广告引擎
 [小米品牌广告引擎与算法实践](http://geek.csdn.net/news/detail/138521)
 
