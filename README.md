@@ -21,4 +21,10 @@
 > * ipython
 > * jupyter
 
+[numpy cheat sheet](https://www.dataquest.io/blog/numpy-cheat-sheet/)
+
+[pandas cheat sheet](https://www.dataquest.io/blog/pandas-cheat-sheet/)
+
+[scikit cheat sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
+
 [python module lib whl](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
