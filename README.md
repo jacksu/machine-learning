@@ -21,7 +21,7 @@
 > * ipython
 > * jupyter
 
-**cheat sheet **
+**cheat sheet**
 
 [numpy cheat sheet](https://www.dataquest.io/blog/numpy-cheat-sheet/)
 
