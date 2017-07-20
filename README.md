@@ -30,6 +30,8 @@
 
 [scikit cheat sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 
+[pyecharts](https://github.com/chenjiandongx/pyecharts)
+
 **whl url**
 
 [python module lib whl](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
