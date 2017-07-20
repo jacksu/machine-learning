@@ -17,6 +17,8 @@
 
 [数据预处理](http://www.zhaokv.com/category/%E6%95%B0%E6%8D%AE%E9%A2%84%E5%A4%84%E7%90%86)
 
+[利用 Scikit Learn的Python数据预处理实战指南](http://www.36dsj.com/archives/71598)
+
 ## 模型建立
 
 [各种机器学习算法分类总结](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-cheat-sheet)
