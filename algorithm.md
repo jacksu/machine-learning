@@ -14,14 +14,19 @@
 
 [机器学习算法实践-朴素贝叶斯(Naive Bayes)](https://zhuanlan.zhihu.com/p/27906640)
 
+**KNN（K Nearest Neighbor）K近邻**
+
+[K NEAREST NEIGHBOR 算法](http://coolshell.cn/articles/8052.html)
+
 ## 回归
 [Python 机器学习实战教程：回归](http://blog.csdn.net/wizardforcel/article/details/73380636)
 
-## GAN（generative aderserial network）生成对抗网络--迁移学习
+##迁移学习
+
+**GAN（generative aderserial network）生成对抗网络**
+
 [杨强教授漫谈《西部世界》、生成式对抗网络及迁移学习](http://geek.csdn.net/news/detail/197755)
 
-## KNN（K Nearest Neighbor）K近邻 --分类
-[K NEAREST NEIGHBOR 算法](http://coolshell.cn/articles/8052.html)
 
 ## 强化学习
 
