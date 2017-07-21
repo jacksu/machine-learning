@@ -1,13 +1,18 @@
 ## 分类
 
 **决策树**
+
 [机器学习算法实践-决策树(Decision Tree)](https://zhuanlan.zhihu.com/p/27905967)
 
 [机器学习算法之决策树](http://www.jianshu.com/p/6eecdeee5012)
 
 **GBDT**
+
 [GBDT(Gradient Boosting Decision Tree)](http://www.jianshu.com/p/005a4e6ac775)
 
+**贝叶斯**
+
+[机器学习算法实践-朴素贝叶斯(Naive Bayes)](https://zhuanlan.zhihu.com/p/27906640)
 
 ## 回归
 [Python 机器学习实战教程：回归](http://blog.csdn.net/wizardforcel/article/details/73380636)
