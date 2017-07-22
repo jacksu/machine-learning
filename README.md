@@ -5,6 +5,7 @@
 
 > * [awesome](awesome.md)
 > * [时间序列数据分析](TimeSeriesAnalysis.md)
+> * [自然语言处理NLP](NLP.md)
 > * [基本机器学习算法相关资料](algorithm.md)
 > * [深度学习相关资料](DeepLearning.md)
 > * [tensorflow相关资料](tensorflow.md)
