@@ -6,7 +6,7 @@
   * 中文处理： 中文分词 词性标注 实体名识别 关键词抽取 依存句法分析 时间短语识别
   * 结构化学习： 在线学习 层次分类 聚类
 
-[**HanLP**](https://github.com/hankcs/HanLP/edit/master/README.md)提供下列功能：
+[**HanLP**](https://github.com/hankcs/HanLP)提供下列功能：
 
 > * 中文分词
   * 最短路分词
