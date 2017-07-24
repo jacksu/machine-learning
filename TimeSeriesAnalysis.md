@@ -8,6 +8,8 @@
 [Anomaly Detection with R](https://github.com/twitter/AnomalyDetection)
 
 [Forecasting: principles and practice](https://www.otexts.org/fpp/7)
+
+[Anomalous time series package for R](https://github.com/robjhyndman/anomalous)
 ## DataSet
 
 [NAB](https://github.com/numenta/NAB)--The Numenta Anomaly Benchmark
