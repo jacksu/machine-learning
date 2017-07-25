@@ -27,6 +27,8 @@
 
 [杨强教授漫谈《西部世界》、生成式对抗网络及迁移学习](http://geek.csdn.net/news/detail/197755)
 
+[香港科技大学计算机系主任杨强：论深度学习的迁移模型](http://blog.csdn.net/wemedia/details.html?id=40903)
+
 
 ## 强化学习
 
