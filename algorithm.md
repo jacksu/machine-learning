@@ -16,7 +16,7 @@
 
 [机器学习算法实践-朴素贝叶斯(Naive Bayes)](https://zhuanlan.zhihu.com/p/27906640)
 
-`使用场景：邮箱垃圾邮件过滤`
+`使用场景：邮箱垃圾邮件过滤，为了应对新单词没有出现在训练集中的情况，使用拉普拉斯光滑（Laplace smoothing）`
 
 **KNN（K Nearest Neighbor）K近邻**
 
