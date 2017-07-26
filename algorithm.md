@@ -6,6 +6,8 @@
 
 [机器学习算法之决策树](http://www.jianshu.com/p/6eecdeee5012)
 
+`使用场景：网站付费用户的判断`
+
 **GBDT**
 
 [GBDT(Gradient Boosting Decision Tree)](http://www.jianshu.com/p/005a4e6ac775)
@@ -13,6 +15,8 @@
 **贝叶斯**
 
 [机器学习算法实践-朴素贝叶斯(Naive Bayes)](https://zhuanlan.zhihu.com/p/27906640)
+
+`使用场景：邮箱垃圾邮件过滤`
 
 **KNN（K Nearest Neighbor）K近邻**
 
