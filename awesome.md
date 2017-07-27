@@ -15,13 +15,21 @@
 ### 特征提取
 特征提取与 特征选择(Feature selection)有很大的不同: 前者意义在于把复杂的数据，如文本和图像，转化为数字特征，从而在机器学习中使用。后者是一个机器学习中应用这些特征的方法
 [sklearn feature extraction](http://sklearn.lzjqsdd.com/modules/feature_extraction.html#text-feature-extraction)
-### 特征选择
+### 数据预处理
 
-[使用sklearn做单机特征工程](https://www.zhihu.com/question/29316149)
+[数据预处理](http://www.jianshu.com/p/23b493d38b5b)
+
+[数据预处理2](http://www.jianshu.com/p/c2e450c07de7)
 
 [数据预处理](http://www.zhaokv.com/category/%E6%95%B0%E6%8D%AE%E9%A2%84%E5%A4%84%E7%90%86)
 
 [利用 Scikit Learn的Python数据预处理实战指南](http://www.36dsj.com/archives/71598)
+
+
+### 特征选择
+
+[使用sklearn做单机特征工程](https://www.zhihu.com/question/29316149)
+
 
 ## 模型建立
 
