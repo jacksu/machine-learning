@@ -68,11 +68,12 @@
 [从数理统计到机器学习——滴滴出行大数据预测体系分享与交流](http://www.infoq.com/cn/presentations/travel-data-sharing-system-to-predict-and-share)
 
 ## 机器学习系统
-[tensorflow学习用例](https://github.com/burness/tensorflow-101)
 
 [第四范式先知平台的整体架构和实现细节](http://www.infoq.com/cn/articles/the-fourth-paradigm-prophet-platform?from=groupmessage)
 
 [Weiflow——微博机器学习框架](http://geek.csdn.net/news/detail/211220)
+
+[深度解密京东登月平台基础架构](http://geek.csdn.net/news/detail/228285)
 ## DL实战
 [DL好玩的东西](https://zhuanlan.zhihu.com/burness-DL)
 
