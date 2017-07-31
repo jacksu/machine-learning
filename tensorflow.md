@@ -2,6 +2,8 @@
 [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)--A curated list of dedicated resources http://tensorflow.org
 
 ## tutorial
+[tensorflow学习用例](https://github.com/burness/tensorflow-101)
+
 [TensorFlow Tutorial and Examples for beginners](https://github.com/aymericdamien/TensorFlow-Examples)
 
 [TensorBox](https://github.com/TensorBox/TensorBox)-----Object detection in TensorFlow
