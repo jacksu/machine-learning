@@ -1,12 +1,23 @@
+
+## 回归
+[Python 机器学习实战教程：回归](http://blog.csdn.net/wizardforcel/article/details/73380636)
+
+[7 Types of Regression Techniques you should know!](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/)
+
 ## 分类
 
 **决策树**
+
+[A Complete Tutorial on Tree Based Modeling from Scratch (in R & Python)](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
 
 [机器学习算法实践-决策树(Decision Tree)](https://zhuanlan.zhihu.com/p/27905967)
 
 [机器学习算法之决策树](http://www.jianshu.com/p/6eecdeee5012)
 
 `使用场景：网站付费用户的判断`
+
+
+
 
 **GBDT**
 
@@ -22,8 +33,11 @@
 
 [K NEAREST NEIGHBOR 算法](http://coolshell.cn/articles/8052.html)
 
-## 回归
-[Python 机器学习实战教程：回归](http://blog.csdn.net/wizardforcel/article/details/73380636)
+[Introduction to k-nearest neighbors : Simplified](https://www.analyticsvidhya.com/blog/2014/10/introduction-k-neighbours-algorithm-clustering/)
+
+## SVM
+
+[Understanding Support Vector Machine algorithm from examples (along with code)](https://www.analyticsvidhya.com/blog/2015/10/understaing-support-vector-machine-example-code/)
 
 ## 迁移学习
 
