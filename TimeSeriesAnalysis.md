@@ -10,6 +10,8 @@
 [Forecasting: principles and practice](https://www.otexts.org/fpp/7)
 
 [Anomalous time series package for R](https://github.com/robjhyndman/anomalous)
+
+[如何在Python中用LSTM网络进行时间序列预测](http://blog.csdn.net/wemedia/details.html?id=42026)
 ## DataSet
 
 [NAB](https://github.com/numenta/NAB)--The Numenta Anomaly Benchmark
