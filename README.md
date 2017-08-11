@@ -27,6 +27,8 @@
 
 [numpy cheat sheet](https://www.dataquest.io/blog/numpy-cheat-sheet/)
 
+![numpy](https://github.com/jacksu/cheatsheets-ai/blob/master/Numpy.png)
+
 [pandas cheat sheet](https://www.dataquest.io/blog/pandas-cheat-sheet/)
 
 [scikit cheat sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
