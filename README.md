@@ -11,19 +11,10 @@
 > * [tensorflow相关资料](tensorflow.md)
 > * [kaggle相关资料](kaggle.md)
 
-**代码**
-
-实践代码主要基于`python 3.6.1`，依赖的module有：
-
-> * numpy+mkl(使用whl安装)
-> * scipy（使用whl安装）
-> * pandas
-> * matplotlib & seaborn
-> * ipython
-> * jupyter
-
 
 **cheat sheet**
+
+[machine learning cheat sheet](https://github.com/kailashahirwar/cheatsheets-ai)
 
 [numpy cheat sheet](https://www.dataquest.io/blog/numpy-cheat-sheet/)
 
@@ -34,6 +25,17 @@
 [scikit cheat sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 
 [pyecharts](https://github.com/chenjiandongx/pyecharts)
+
+**代码**
+
+实践代码主要基于`python 3.6.1`，依赖的module有：
+
+> * numpy+mkl(最好使用whl安装)
+> * scipy（最好使用whl安装）
+> * pandas
+> * matplotlib & seaborn
+> * ipython
+> * jupyter
 
 **whl url**
 
