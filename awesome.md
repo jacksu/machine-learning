@@ -3,6 +3,7 @@
 [机器学习、Python和数学学习资料汇总](http://www.infoq.com/cn/news/2017/06/Machine-Python-math-aggregation)
 
 ## 介绍
+数据挖掘通用场景：
 
 ![数据挖掘普通流程](pic/数据挖掘.jpg)
 
@@ -29,7 +30,11 @@
 
 ### 特征选择
 
+[特征选择](http://www.jianshu.com/p/2624521f87eb)
+
 [使用sklearn做单机特征工程](https://www.zhihu.com/question/29316149)
+
+### [降维](http://www.jianshu.com/p/6a9db201cb13)
 
 
 ## 模型建立
