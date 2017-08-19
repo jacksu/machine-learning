@@ -1,7 +1,7 @@
 该工程主要包含机器学习学习过程中收集的相关资料和实践代码。
 
 
-**资料主要包括：**
+## 资料主要包括：
 
 > * [awesome](awesome.md)
 > * [时间序列数据分析](TimeSeriesAnalysis.md)
@@ -12,17 +12,28 @@
 > * [kaggle相关资料](kaggle.md)
 
 
-**cheat sheet**
+## cheat sheet
+
+### ML
 
 [machine learning cheat sheet](https://github.com/kailashahirwar/cheatsheets-ai)
+
+### numpy
 
 [numpy cheat sheet](https://www.dataquest.io/blog/numpy-cheat-sheet/)
 
 ![numpy](https://github.com/jacksu/cheatsheets-ai/blob/master/Numpy.png)
 
+### pandas
+
 [pandas cheat sheet](https://www.dataquest.io/blog/pandas-cheat-sheet/)
 
+[实操 | 内存占用减少高达90%，还不用升级硬件？没错，这篇文章教你妙用Pandas轻松处理大规模数据](http://blog.csdn.net/wemedia/details.html?id=43144)
+
+## scikit learn
 [scikit cheat sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
+
+## charts
 
 [pyecharts](https://github.com/chenjiandongx/pyecharts)
 
