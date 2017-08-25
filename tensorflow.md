@@ -1,6 +1,8 @@
 ## awesome
 [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)--A curated list of dedicated resources http://tensorflow.org
 
+[TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark)
+
 ## tutorial
 [tensorflow学习用例](https://github.com/burness/tensorflow-101)
 
