@@ -7,3 +7,5 @@
 
 
 [Realtime Multi Person Pose Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
+
+[深度学习在情感分析中的应用](http://geek.csdn.net/news/detail/232869)
