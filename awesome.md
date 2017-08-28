@@ -2,6 +2,8 @@
 
 [机器学习、Python和数学学习资料汇总](http://www.infoq.com/cn/news/2017/06/Machine-Python-math-aggregation)
 
+[Medium上6900个赞的AI学习路线图，让你快速上手机器学习](http://blog.csdn.net/wemedia/details.html?id=43739)
+
 ## 介绍
 数据挖掘通用场景：
 
