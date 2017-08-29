@@ -18,10 +18,13 @@
 
 
 
-
 **GBDT**
 
 [GBDT(Gradient Boosting Decision Tree)](http://www.jianshu.com/p/005a4e6ac775)
+
+**XGBoost**
+
+[Introduction to Boosted Trees](http://xgboost.readthedocs.io/en/latest/model.html)
 
 **贝叶斯**
 
