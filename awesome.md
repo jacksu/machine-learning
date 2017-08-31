@@ -18,6 +18,11 @@
 遇到了什么问题，需要什么数据来解决这个问题
 ## 特征工程
 有这么一句话在业界广泛流传：数据和特征决定了机器学习的上限，而模型和算法只是逼近这个上限而已。包括采样数据、探索数据，了解数据的特征（NA、分布、均值），数据清洗、数据预处理，特征选择，降维等。
+
+### 数据探索
+
+[A Comprehensive Guide to Data Exploration](https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/)
+
 ### 特征提取
 特征提取与 特征选择(Feature selection)有很大的不同: 前者意义在于把复杂的数据，如文本和图像，转化为数字特征，从而在机器学习中使用。后者是一个机器学习中应用这些特征的方法
 [sklearn feature extraction](http://sklearn.lzjqsdd.com/modules/feature_extraction.html#text-feature-extraction)
