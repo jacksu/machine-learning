@@ -1,8 +1,6 @@
 ## awesome
 [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)--A curated list of dedicated resources http://tensorflow.org
 
-[TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark)
-
 ## tutorial
 [tensorflow学习用例](https://github.com/burness/tensorflow-101)
 
@@ -30,6 +28,13 @@
 
 [十图详解TensorFlow数据读取机制（附代码）](http://geek.csdn.net/news/detail/201552)
 
+
+## 周边
+
+### TensorFlowOnSpark
+[TensorFlowOnSpark git](https://github.com/yahoo/TensorFlowOnSpark)
+
+[TensorFlow遇上Spark](http://www.jianshu.com/p/62b4ebb5a2f4)
 
 ```python
 node1 = tf.constant(3.0, tf.float32)
