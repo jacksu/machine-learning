@@ -10,6 +10,7 @@
 > * [深度学习相关资料](DeepLearning.md)
 > * [tensorflow相关资料](tensorflow.md)
 > * [kaggle相关资料](kaggle.md)
+> * [jupyter相关资料](jupyter.md)
 
 
 ## cheat sheet
