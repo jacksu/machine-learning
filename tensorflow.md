@@ -23,6 +23,9 @@
 
 [Implementations of CNNs, RNNs, GANs, etc](https://github.com/adeshpande3/Tensorflow-Programs-and-Tutorials)
 
+[TensorFlow Wide And Deep 模型详解与应用
+TensorFlow Wide-And-Deep](http://geek.csdn.net/news/detail/235465)
+
 ## 架构
 [TensorFlow框架剖析与应⽤](http://ocgxshkaw.bkt.clouddn.com/11%20%E3%80%8ATensorFlow%E6%A1%86%E6%9E%B6%E5%89%96%E6%9E%90%E5%8F%8A%E5%BA%94%E7%94%A8%E3%80%8B%E7%8E%8B%E7%90%9B.pdf)
 
