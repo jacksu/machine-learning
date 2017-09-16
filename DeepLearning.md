@@ -7,6 +7,8 @@
 
 [变分自编码机](http://blog.csdn.net/wemedia/details.html?id=42029)
 
+[BigDL](https://github.com/intel-analytics/BigDL)---Distributed Deep Learning Library for Apache Spark
+
 ## 应用
 
 [Realtime Multi Person Pose Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
