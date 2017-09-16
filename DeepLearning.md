@@ -9,6 +9,8 @@
 
 [BigDL](https://github.com/intel-analytics/BigDL)---Distributed Deep Learning Library for Apache Spark
 
+[keras-cn](https://github.com/MoyanZitto/keras-cn)---Chinese keras documents with more examples, explanations and tips.
+
 ## 应用
 
 [Realtime Multi Person Pose Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
