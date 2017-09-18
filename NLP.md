@@ -1,4 +1,5 @@
 ## 实践
+[lectures](https://github.com/oxford-cs-deepnlp-2017/lectures)---Oxford Deep NLP 2017 course
 
 [实战 | 让机器人替你聊天，还不被人看出破绽？来，手把手教你训练一个克隆版的你](http://blog.csdn.net/wemedia/details.html?id=43471)
 
