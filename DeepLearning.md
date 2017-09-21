@@ -13,6 +13,8 @@
 
 [spark-deep-learning](https://github.com/databricks/spark-deep-learning)---Deep Learning Pipelines for Apache Spark
 
+[fastai](https://github.com/fastai)---The fast.ai deep learning library, lessons, and tutorials
+
 ## 应用
 
 [Realtime Multi Person Pose Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
