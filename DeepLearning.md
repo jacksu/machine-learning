@@ -15,6 +15,8 @@
 
 [fastai](https://github.com/fastai)---The fast.ai deep learning library, lessons, and tutorials
 
+[动手学深度学习](https://zh.gluon.ai//index.html)
+
 ## 应用
 
 [Realtime Multi Person Pose Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
