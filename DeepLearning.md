@@ -17,6 +17,8 @@
 
 [动手学深度学习](https://zh.gluon.ai//index.html)
 
+[Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)---Collection of papers and other resources for object tracking and detection using deep learning
+
 ## 应用
 
 [Realtime Multi Person Pose Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
