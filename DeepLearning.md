@@ -1,4 +1,6 @@
 ## 教程
+[李宏毅 / 一天搞懂深度](https://www.slideshare.net/tw_dsconf/ss-62245351?qid=108adce3-2c3d-4758-a830-95d0a57e46bc&v=&b=&from_search=3)
+
 [Deep Learning Book Chinese Translation](https://github.com/exacity/deeplearningbook-chinese)
 
 [simplified-deeplearning](https://github.com/exacity/simplified-deeplearning)---DeepLearningBook的学习笔记
@@ -19,6 +21,7 @@
 
 [Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)---Collection of papers and other resources for object tracking and detection using deep learning
 
+[mobile-deep-learning](https://github.com/baidu/mobile-deep-learning)---This research aims at simply deploying CNN(Convolutional Neural Network) on mobile devices, with low complexity and high speed.
 ## 应用
 
 [Realtime Multi Person Pose Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
