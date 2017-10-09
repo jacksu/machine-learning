@@ -1,3 +1,9 @@
+
+## 资源
+[DL4NLP](https://github.com/andrewt3000/DL4NLP)---Deep Learning for NLP resources
+
+[深度学习与自然语言处理实践](https://github.com/wxyyxc1992/DataScience-And-MachineLearning-Handbook-For-Coders/tree/master/DeepLearning-And-NLP-In-Action)
+
 ## 实战
 [oxford-cs-deepnlp-2017](https://github.com/oxford-cs-deepnlp-2017)
 
