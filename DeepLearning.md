@@ -28,6 +28,8 @@
 [Realtime Multi Person Pose Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
 
 [deep-visualization-toolbox](https://github.com/yosinski/deep-visualization-toolbox)---DeepVis Toolbox 
+
+[SeetaFace Engine](https://github.com/seetaface/SeetaFaceEngine)---SeetaFace Engine is an open source C++ face recognition engine, which can run on CPU with no third-party dependence.
 ## 应用
 
 [深度学习在情感分析中的应用](http://geek.csdn.net/news/detail/232869)
