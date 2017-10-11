@@ -26,6 +26,8 @@
 [mobile-deep-learning](https://github.com/baidu/mobile-deep-learning)---This research aims at simply deploying CNN(Convolutional Neural Network) on mobile devices, with low complexity and high speed.
 
 [Realtime Multi Person Pose Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
+
+[deep-visualization-toolbox](https://github.com/yosinski/deep-visualization-toolbox)---DeepVis Toolbox 
 ## 应用
 
 [深度学习在情感分析中的应用](http://geek.csdn.net/news/detail/232869)
