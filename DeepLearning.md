@@ -30,6 +30,8 @@
 [deep-visualization-toolbox](https://github.com/yosinski/deep-visualization-toolbox)---DeepVis Toolbox 
 
 [SeetaFace Engine](https://github.com/seetaface/SeetaFaceEngine)---SeetaFace Engine is an open source C++ face recognition engine, which can run on CPU with no third-party dependence.
+
+[conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic)---A technical report on convolution arithmetic in the context of deep learning
 ## 应用
 
 [深度学习在情感分析中的应用](http://geek.csdn.net/news/detail/232869)
