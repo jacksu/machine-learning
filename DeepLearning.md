@@ -7,9 +7,13 @@
 
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
-[变分自编码机](http://blog.csdn.net/wemedia/details.html?id=42029)
-
 [动手学深度学习](https://zh.gluon.ai//index.html)
+
+## 基本概念介绍
+
+[ReLu(Rectified Linear Units)激活函数](http://www.cnblogs.com/neopenx/p/4453161.html)
+
+[变分自编码机](http://blog.csdn.net/wemedia/details.html?id=42029)
 
 ## github
 
