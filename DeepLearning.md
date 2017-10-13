@@ -39,3 +39,5 @@
 ## 应用
 
 [深度学习在情感分析中的应用](http://geek.csdn.net/news/detail/232869)
+
+[深度学习在股票市场的应用](http://www.jianshu.com/p/f9ca56d6407d)
