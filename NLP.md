@@ -2,6 +2,8 @@
 ## 资源
 [DL4NLP](https://github.com/andrewt3000/DL4NLP)---Deep Learning for NLP resources
 
+[nlp_tasks](https://github.com/Kyubyong/nlp_tasks)---Natural Language Processing Tasks and References
+
 [深度学习与自然语言处理实践](https://github.com/wxyyxc1992/DataScience-And-MachineLearning-Handbook-For-Coders/tree/master/DeepLearning-And-NLP-In-Action)
 
 ## 实战
