@@ -11,7 +11,7 @@
 > * [tensorflow相关资料](tensorflow.md)
 > * [kaggle相关资料](kaggle.md)
 > * [jupyter相关资料](jupyter.md)
-> * [MachinLearningOnSpark](MachinLearningOnSpark.md)
+> * [MachinLearningOnSpark](MachineLearningOnSpark.md)
 > * [实践代码](/src/ml)
 
 
