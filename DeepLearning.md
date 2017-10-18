@@ -15,6 +15,8 @@
 
 [变分自编码机](http://blog.csdn.net/wemedia/details.html?id=42029)
 
+[CNN(卷积神经网络)、RNN(循环神经网络)、DNN(深度神经网络)的内部网络结构有什么区别？](https://www.zhihu.com/question/34681168)
+
 ## github
 
 [BigDL](https://github.com/intel-analytics/BigDL)---Distributed Deep Learning Library for Apache Spark
