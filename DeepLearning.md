@@ -1,6 +1,8 @@
 ## 教程
 [李宏毅 / 一天搞懂深度](https://www.slideshare.net/tw_dsconf/ss-62245351?qid=108adce3-2c3d-4758-a830-95d0a57e46bc&v=&b=&from_search=3)
 
+[深度学习必备手册（上）](https://yq.aliyun.com/articles/221660?utm_content=m_32699)
+
 [Deep Learning Book Chinese Translation](https://github.com/exacity/deeplearningbook-chinese)
 
 [simplified-deeplearning](https://github.com/exacity/simplified-deeplearning)---DeepLearningBook的学习笔记
