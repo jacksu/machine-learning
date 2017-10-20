@@ -14,6 +14,8 @@
 
 [机器学习算法之决策树](http://www.jianshu.com/p/6eecdeee5012)
 
+[treelite](https://github.com/dmlc/treelite)---Treelite is a framework to optimize decision tree ensembles for fast prediction.
+
 `使用场景：网站付费用户的判断`
 
 
