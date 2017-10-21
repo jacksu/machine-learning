@@ -19,6 +19,9 @@
 
 [CNN(卷积神经网络)、RNN(循环神经网络)、DNN(深度神经网络)的内部网络结构有什么区别？](https://www.zhihu.com/question/34681168)
 
+### CNN
+[不懂卷积神经网络？别怕，看完这几张萌图你就明白了](https://zhuanlan.zhihu.com/p/30285790)
+
 ## github
 
 [BigDL](https://github.com/intel-analytics/BigDL)---Distributed Deep Learning Library for Apache Spark
