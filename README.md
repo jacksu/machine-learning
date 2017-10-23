@@ -3,6 +3,7 @@
 
 ## 资料主要包括：
 
+> * [awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code)
 > * [awesome](awesome.md)
 > * [时间序列数据分析](TimeSeriesAnalysis.md)
 > * [自然语言处理NLP](NLP.md)
