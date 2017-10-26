@@ -43,6 +43,8 @@
 [SeetaFace Engine](https://github.com/seetaface/SeetaFaceEngine)---SeetaFace Engine is an open source C++ face recognition engine, which can run on CPU with no third-party dependence.
 
 [conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic)---A technical report on convolution arithmetic in the context of deep learning
+
+[OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)---a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.
 ## 应用
 
 [深度学习在情感分析中的应用](http://geek.csdn.net/news/detail/232869)
