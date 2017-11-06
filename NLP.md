@@ -1,4 +1,7 @@
 
+## 教程
+[oxford-cs-deepnlp-2017](https://github.com/oxford-cs-deepnlp-2017)
+
 ## 资源
 [DL4NLP](https://github.com/andrewt3000/DL4NLP)---Deep Learning for NLP resources
 
@@ -9,7 +12,8 @@
 [opennlp](https://github.com/apache/opennlp)---The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text.
 
 ## 实战
-[oxford-cs-deepnlp-2017](https://github.com/oxford-cs-deepnlp-2017)
+
+[如何使用Scikit-learn实现用于机器学习的文本数据准备](http://www.infoq.com/cn/articles/prepare-text-data-machine-learning-scikit-learn?utm_source=notification_web&utm_campaign=notifications&utm_medium=link&utm_content=content_in_followed_topic)
 
 [实战 | 让机器人替你聊天，还不被人看出破绽？来，手把手教你训练一个克隆版的你](http://blog.csdn.net/wemedia/details.html?id=43471)
 
