@@ -11,6 +11,8 @@
 
 [opennlp](https://github.com/apache/opennlp)---The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text.
 
+[NLTK](https://github.com/nltk/nltk)--- the Natural Language Toolkit -- is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing.
+
 ## 实战
 
 [如何使用Scikit-learn实现用于机器学习的文本数据准备](http://www.infoq.com/cn/articles/prepare-text-data-machine-learning-scikit-learn?utm_source=notification_web&utm_campaign=notifications&utm_medium=link&utm_content=content_in_followed_topic)
