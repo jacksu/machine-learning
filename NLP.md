@@ -20,6 +20,7 @@
 [实战 | 让机器人替你聊天，还不被人看出破绽？来，手把手教你训练一个克隆版的你](http://blog.csdn.net/wemedia/details.html?id=43471)
 
 ## Java
+[ansj_seg](https://github.com/NLPchina/ansj_seg)---ansj分词.ict的真正java实现.分词效果速度都超过开源版的ict. 中文分词,人名识别,词性标注,用户自定义词典
 
 [中文自然语言处理工具包 Toolkit for Chinese natural language processing](https://github.com/FudanNLP/fnlp)
 
