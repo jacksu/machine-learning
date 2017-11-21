@@ -14,6 +14,8 @@
 [PMML介绍](http://www.ibm.com/developerworks/cn/opensource/ind-PMML1/)
 
 [Engineering statistics handbook](http://www.itl.nist.gov/div898/handbook/index.htm)
+
+[python-machine-learning-book-2nd-edition](https://github.com/rasbt/python-machine-learning-book-2nd-edition#whats-new-in-the-second-edition-from-the-first-edition)
 ## 商业理解
 遇到了什么问题，需要什么数据来解决这个问题
 ## 特征工程
