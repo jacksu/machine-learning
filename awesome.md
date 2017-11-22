@@ -78,6 +78,8 @@
 ## 广告引擎
 [小米品牌广告引擎与算法实践](http://geek.csdn.net/news/detail/138521)
 
+[Ad-papers](https://github.com/wzhe06/Ad-papers)---Papers on Computational Advertising
+
 ## 预测
 
 [从数理统计到机器学习——滴滴出行大数据预测体系分享与交流](http://www.infoq.com/cn/presentations/travel-data-sharing-system-to-predict-and-share)
