@@ -3,6 +3,7 @@
 
 ## 资料主要包括：
 
+> * [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)---This glossary defines general machine learning terms as well as terms specific to TensorFlow.
 > * [awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code)---Interesting links & research papers related to Machine Learning applied to source code
 > * [awesome](awesome.md)
 > * [时间序列数据分析](TimeSeriesAnalysis.md)
