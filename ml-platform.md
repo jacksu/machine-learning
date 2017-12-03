@@ -4,6 +4,9 @@
 
 [饿了么大数据平台建设](http://blog.csdn.net/dev_csdn/article/details/78625404)
 
+## machine learning 商业平台
+BigML、Seldon、Algorithmia
+
 ## NoSQL
 [Cassandra NoSQL数据模型设计指南](http://blog.csdn.net/dev_csdn/article/details/78594658)
 
