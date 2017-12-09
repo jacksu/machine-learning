@@ -14,3 +14,8 @@ BigML、Seldon、Algorithmia
 
 ## 计算
 [apache 流框架Flink、spark streaming和storm对比分析](https://bigdata.163.com/product/article/5)
+
+[DeepSpeech](https://github.com/mozilla/DeepSpeech)---A TensorFlow implementation of Baidu's DeepSpeech architecture
+
+## 容器化
+[kubeflow](https://github.com/google/kubeflow)---Machine Learning Toolkit for Kubernetes
