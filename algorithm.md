@@ -28,6 +28,8 @@
 
 [Introduction to Boosted Trees](http://xgboost.readthedocs.io/en/latest/model.html)
 
+[随机森林-GBDT-XGBOOST](https://www.jianshu.com/p/3f9628fa928b)
+
 **贝叶斯**
 
 [机器学习算法实践-朴素贝叶斯(Naive Bayes)](https://zhuanlan.zhihu.com/p/27906640)
