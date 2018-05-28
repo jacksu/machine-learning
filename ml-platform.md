@@ -21,6 +21,8 @@ BigML、Seldon、Algorithmia
 
 [DeepSpeech](https://github.com/mozilla/DeepSpeech)---A TensorFlow implementation of Baidu's DeepSpeech architecture
 
+[EasyML](https://github.com/ICT-BDA/EasyML)---Easy Machine Learning is a general-purpose dataflow-based system for easing the process of applying machine learning algorithms to real world tasks.
+
 ## 容器化
 [kubeflow](https://github.com/google/kubeflow)---Machine Learning Toolkit for Kubernetes
 
