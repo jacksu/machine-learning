@@ -12,6 +12,8 @@
 [Anomalous time series package for R](https://github.com/robjhyndman/anomalous)
 
 [如何在Python中用LSTM网络进行时间序列预测](http://blog.csdn.net/wemedia/details.html?id=42026)
+
+[facebook/prophet](https://github.com/facebook/prophet)---Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 ## DataSet
 
 [NAB](https://github.com/numenta/NAB)--The Numenta Anomaly Benchmark
