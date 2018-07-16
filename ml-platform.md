@@ -1,17 +1,20 @@
-[利用已有的大数据技术，如何构建机器学习平台](http://www.infoq.com/cn/articles/build-machine-learning-platform-bigdata?utm_source=notification_web&utm_campaign=notifications&utm_medium=link&utm_content=content_in_followed_topic)---同程
+# 机器学习平台架构
+
+## offline
+
+### 开源平台
 
 [xlearn](https://github.com/aksnzhy/xlearn)---High Performance, Easy-to-use, and Scalable Machine Learning Package
 
-[饿了么大数据平台建设](http://blog.csdn.net/dev_csdn/article/details/78625404)
+[**angel**](https://github.com/Tencent/angel)---A Flexible and Powerful Parameter Server for large-scale machine learning 
 
-[Facebook服务于20亿人的应用机器学习平台是如何建成的？](https://mp.weixin.qq.com/s/ScFlSGcx-B3hav15kT4nCQ)
+### 商业平台
 
-[Uber的机器学习平台：从打车到外卖，一个平台如何服务数十个团队？](https://mp.weixin.qq.com/s/voDHk42uCbBuYxPBfTZ2Fw)
-
-## machine learning 商业平台
 BigML、Seldon、Algorithmia
 
-## NoSQL
+# 技术
+
+## 存储
 [Cassandra NoSQL数据模型设计指南](http://blog.csdn.net/dev_csdn/article/details/78594658)
 
 [kudu VS Hbase](https://bigdata.163.com/product/article/15)
@@ -27,3 +30,13 @@ BigML、Seldon、Algorithmia
 [kubeflow](https://github.com/google/kubeflow)---Machine Learning Toolkit for Kubernetes
 
 [Docker 核心技术与实现原理](https://draveness.me/docker)
+
+# 业界实践介绍
+
+[利用已有的大数据技术，如何构建机器学习平台](http://www.infoq.com/cn/articles/build-machine-learning-platform-bigdata?utm_source=notification_web&utm_campaign=notifications&utm_medium=link&utm_content=content_in_followed_topic)---同程
+
+[饿了么大数据平台建设](http://blog.csdn.net/dev_csdn/article/details/78625404)
+
+[Facebook服务于20亿人的应用机器学习平台是如何建成的？](https://mp.weixin.qq.com/s/ScFlSGcx-B3hav15kT4nCQ)
+
+[Uber的机器学习平台：从打车到外卖，一个平台如何服务数十个团队？](https://mp.weixin.qq.com/s/voDHk42uCbBuYxPBfTZ2Fw)
