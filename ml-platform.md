@@ -40,3 +40,5 @@ BigML、Seldon、Algorithmia
 [Facebook服务于20亿人的应用机器学习平台是如何建成的？](https://mp.weixin.qq.com/s/ScFlSGcx-B3hav15kT4nCQ)
 
 [Uber的机器学习平台：从打车到外卖，一个平台如何服务数十个团队？](https://mp.weixin.qq.com/s/voDHk42uCbBuYxPBfTZ2Fw)
+
+[微博深度学习平台架构和实践](https://blog.csdn.net/heyc861221/article/details/80132175)
