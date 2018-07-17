@@ -8,6 +8,12 @@
 
 [**angel**](https://github.com/Tencent/angel)---A Flexible and Powerful Parameter Server for large-scale machine learning 
 
+[EasyML](https://github.com/ICT-BDA/EasyML)---Easy Machine Learning is a general-purpose dataflow-based system for easing the process of applying machine learning algorithms to real world tasks.
+
+#### 深度学习
+
+[DeepSpeech](https://github.com/mozilla/DeepSpeech)---A TensorFlow implementation of Baidu's DeepSpeech architecture
+
 ### 商业平台
 
 BigML、Seldon、Algorithmia
@@ -21,10 +27,6 @@ BigML、Seldon、Algorithmia
 
 ## 计算
 [apache 流框架Flink、spark streaming和storm对比分析](https://bigdata.163.com/product/article/5)
-
-[DeepSpeech](https://github.com/mozilla/DeepSpeech)---A TensorFlow implementation of Baidu's DeepSpeech architecture
-
-[EasyML](https://github.com/ICT-BDA/EasyML)---Easy Machine Learning is a general-purpose dataflow-based system for easing the process of applying machine learning algorithms to real world tasks.
 
 ## 容器化
 [kubeflow](https://github.com/google/kubeflow)---Machine Learning Toolkit for Kubernetes
