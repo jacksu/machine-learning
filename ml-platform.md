@@ -17,6 +17,8 @@
 ## online
 [predictionio](http://predictionio.apache.org/)---Apache PredictionIO® is an open source Machine Learning Server built on top of a state-of-the-art open source stack for developers and data scientists to create predictive engines for any machine learning task. 
 
+[SeldonIO/seldon-server](https://github.com/SeldonIO/seldon-server)---Seldon Core focuses purely on deploying a wide range of ML models on Kubernetes, allowing complex runtime serving graphs to be managed in production. 
+
 ### 商业平台
 
 BigML、Seldon、Algorithmia
