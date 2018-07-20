@@ -24,6 +24,11 @@
 BigML、Seldon、Algorithmia
 
 # 技术
+## 模型
+
+[**sklearn2pmml**](https://github.com/jpmml/sklearn2pmml)
+
+[Java PMML API](https://github.com/jpmml?page=1)---Java libraries for producing and consuming PMML documents
 
 ## 存储
 [Cassandra NoSQL数据模型设计指南](http://blog.csdn.net/dev_csdn/article/details/78594658)
