@@ -4,6 +4,8 @@
 
 [Medium上6900个赞的AI学习路线图，让你快速上手机器学习](http://blog.csdn.net/wemedia/details.html?id=43739)
 
+[100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+
 ## 介绍
 数据挖掘通用场景：
 
