@@ -23,6 +23,8 @@
 ## 特征工程
 有这么一句话在业界广泛流传：数据和特征决定了机器学习的上限，而模型和算法只是逼近这个上限而已。包括采样数据、探索数据，了解数据的特征（NA、分布、均值），数据清洗、数据预处理，特征选择，降维等。
 
+[自动化特征工具featuretools介绍](https://www.jiqizhixin.com/articles/2018-11-02-7)---适合离线批数据预测，比如超市商品的销售额预测。
+
 ### 数据探索
 
 [A Comprehensive Guide to Data Exploration](https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/)
